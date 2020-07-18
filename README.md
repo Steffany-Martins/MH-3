@@ -65,7 +65,7 @@ From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/jpsoarxs/MH-3
+$ git clone https://github.com/Steffany-Martins/MH-3.git
 
 # Go into the repository
 $ cd MH-3/mobile
